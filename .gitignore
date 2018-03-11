@@ -1,0 +1,37 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+*.user
+*.suo
+*.userprefs
+*.sln.ide
+.vs/
+
+App.config
+
+#ReSharper
+*\_ReSharper*
+*_ReSharper*
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+#config file
+App.config
+
+# Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+# TODO: Comment the next line if you want to checkin your web deploy settings
+# but database connection strings (with potential passwords) will be unencrypted
+*.pubxml
+*.publishproj
